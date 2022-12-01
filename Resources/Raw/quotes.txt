@@ -1,0 +1,5 @@
+﻿Pa duro mi pirulo
+SELECT * FROM fingers WHERE id = 2
+No por mucho madrugar, patada en los cojones
+A quien madruga, patada en los cojones
+En abril, patada en los cojones
